@@ -140,6 +140,7 @@ body{
 
 .rate_div{
 		width:181px;
+	        background-color: lightgreen;
 }
 
 @media (max-width: 900px) {
