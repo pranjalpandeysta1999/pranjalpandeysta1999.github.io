@@ -139,13 +139,13 @@ body{
 }
 
 .rate_div{
-		width:188px;
+		width:181px;
 	        background-color: lightgreen;
 }
 
 @media (max-width: 900px) {
   .rate_div {
-   width: 180px;
+   width: 183px;
   
   }
 }
