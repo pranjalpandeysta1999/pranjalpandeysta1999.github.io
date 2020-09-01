@@ -145,14 +145,9 @@ body{
 
 @media (max-width: 900px) {
   .rate_div {
-   width: 90%;
+   width: 80%;
   
   }
 }
 
-@media (max-width: 900px) {
-  .div_rate_label {
-   width: 90%;
-  
-  }
-}
+
