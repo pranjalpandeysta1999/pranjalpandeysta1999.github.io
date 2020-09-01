@@ -147,3 +147,10 @@ body{
   
   }
 }
+
+@media (max-width: 900px) {
+  .div_rate_label {
+   width: 180px;
+  
+  }
+}
